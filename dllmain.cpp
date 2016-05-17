@@ -53,7 +53,7 @@ bool Algo2(unsigned short S, unsigned short L, unsigned short R, int Init, int *
 	sonuc=sonuc*-1;
 			}
 	sonuc = sonuc *2+ 2;
-* VR=64/sonuc; * VL = 50;
+* VL=64/sonuc; * VR = 50;
 
 
 				}
